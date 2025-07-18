@@ -2,6 +2,8 @@
 ## Architecture
 ![Mechanism_X_Y](https://github.com/user-attachments/assets/d1f76c44-5b5e-4d8d-9903-6aa38845ffd4)
 
+
+## Problem Statement
 There are N banks(merchants) and M customers. A customer can have an account in multiple banks. 
 
 /transactions.csv - represents various transaction data
